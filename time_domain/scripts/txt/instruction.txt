@@ -1,0 +1,14 @@
+1.Slot Type(Range or Data)
+2.SLOT number
+3.Flags
+4.Pii
+5.AntennaMode
+6.Code Channel
+7.无用bit位
+8.Req ID
+9.Rsp ID
+10.Man Time(request Duration Ms)
+
+
+
+
